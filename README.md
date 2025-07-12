@@ -3,4 +3,4 @@ Pronto est un outil outbound qui aide à générer en quelques minutes des liste
 Il inclut des signaux en temps réel (nouvelles embauches, promotions…) pour déclencher les campagnes au moment optimal et booster le taux de conversion .
 
 
-🌐 Découvrez-le ici : prontohq.com
+🌐 Découvrez-le ici : https://www.prontohq.com/
